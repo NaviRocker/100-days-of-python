@@ -21,6 +21,7 @@ Master Python by building 100 projects in 100 days. Learn to Build Websites, Gam
   - [Exercise - Leap Year](https://github.com/NaviRocker/100-days-of-python/blob/main/Day-3/day-3-3-exercise.py)
   - [Exercise - Pizza Order Practice](https://github.com/NaviRocker/100-days-of-python/blob/main/Day-3/day-3-4-exercise.py)
   - [Exercise - Love Calculator](https://github.com/NaviRocker/100-days-of-python/blob/main/Day-3/day-3-5-exercise.py)
+  - [Project - Treasure Island](https://github.com/NaviRocker/100-days-of-python/blob/main/Day-3/treasure-island-start.py)
 - [Day 4 - Beginner - Randomisation and Python Lists](https://github.com/NaviRocker/100-days-of-python/tree/main/Day-4)
 - [Day 5 - Beginner - Python Loops](https://github.com/NaviRocker/100-days-of-python/tree/main/Day-5)
 - [Day 6 - Beginner - Python Functions and Karel](https://github.com/NaviRocker/100-days-of-python/tree/main/Day-6)
