@@ -26,7 +26,7 @@ Master Python by building 100 projects in 100 days. Learn to Build Websites, Gam
   - [Exercise - Heads or Tails](https://github.com/NaviRocker/100-days-of-python/blob/main/Day-4/day-4-1-exercise.py)
   - [Exercise - Banker Roulette - Who will pay the bill?](https://github.com/NaviRocker/100-days-of-python/blob/main/Day-4/day-4-2-exercise.py)
   - [Exercise - Treasure Map](https://github.com/NaviRocker/100-days-of-python/blob/main/Day-4/day-4-3-exercise.py)
-  - [Project - Rock Paper Scissors](https://github.com/NaviRocker/100-days-of-python/blob/main/Day-4/)
+  - [Project - Rock Paper Scissors](https://github.com/NaviRocker/100-days-of-python/blob/main/Day-4/rock-paper-scissors.py)
 - [Day 5 - Beginner - Python Loops](https://github.com/NaviRocker/100-days-of-python/tree/main/Day-5)
   - [Exercise - Average Height](https://github.com/NaviRocker/100-days-of-python/blob/main/Day-5/day-5-1-exercise.py)
   - [Exercise - High Score](https://github.com/NaviRocker/100-days-of-python/blob/main/Day-5/day-5-2-exercise.py)
